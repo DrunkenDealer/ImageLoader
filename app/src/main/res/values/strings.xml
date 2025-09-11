@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">ImageLoader</string>
+    <string name="refresh_images">Refresh Images</string>
+    <string name="invalidate_cache">Invalidate Cache</string>
+    <string name="loading">Loading...</string>
+    <string name="error_loading">Error loading images</string>
 </resources>
